@@ -1,9 +1,8 @@
 ### <h1> Hey there, my name is Vraj Patel 🙋🏾‍♂️ ![](https://komarev.com/ghpvc/?username=Vraj-P&color=blue&label=Number+Of+Stalkers)</h1> 
 <b>Aside from school and work, here are some things I really enjoy!</b>
 
-- Trying new foods 🌮
-- Cooking 🧑🏾‍🍳
-- Running 🏃🏾‍♂️
+- Motorsports 🏎
+- Basket Ball 🏀
 - Video games 🎮
 - Movies 🍿
 - The outdoors ☀️
@@ -22,8 +21,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50" height="50"/>
@@ -38,12 +35,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on finding a winter 2023 co-op
+- 🌱 I’m currently learning database systems
+- 💬 Ask me about how I found an interest in software development
+- 📫 How to reach me: v227pate@uwaterloo.ca
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy cars 
 -->
